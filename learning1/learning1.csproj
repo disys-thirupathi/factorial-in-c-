@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="..\..\swap.cs" Link="swap.cs" />
+    <Compile Include="C:\Users\Thirupathi.Narayanan\source\repos\factorial.cs" Link="factorial.cs" />
+  </ItemGroup>
+
+</Project>
